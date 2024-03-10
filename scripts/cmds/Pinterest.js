@@ -1,4 +1,4 @@
-#cmd install pinterest.js const axios = require("axios");
+const axios = require("axios");
 const path = require("path");
 
 /*Do not change
